@@ -1,0 +1,15 @@
+.theme-color
+{
+    background-color: #001f3f;
+}
+.btn-theme{
+    display: block;
+    width: 100%;
+    color: #fff;
+    background-color: #001f3f;
+    border-color: #007bff;
+    box-shadow: none;
+}
+.login-logo a{
+    color: #fff3cd;
+}
